@@ -50,12 +50,12 @@
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ldrawe&show_icons=true&locale=en&theme=radical" alt="ldrawe" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ldrawe&show_icons=true&locale=en&theme=radical" alt="ldrawe" height="180em" />
 </p>
 
 <p>
 &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ldrawe&show_icons=true&locale=en&layout=compact&theme=radical" alt="ldrawe" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ldrawe&show_icons=true&locale=en&layout=compact&theme=radical" alt="ldrawe" height="180em" />
 </p>
 
 

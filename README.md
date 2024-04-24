@@ -3,18 +3,18 @@
     I'm a Full Stack developer with a love for crafting clean and efficient code. I'm dedicated to continuously learning and improving my skills in various technologies and frameworks
 </h3>
 
-![Banner](https://private-user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTA3ODE2NjUsIm5iZiI6MTcxMDc4MTM2NSwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4MzQtNzI5MDMzMjQtY2Y1Ny00ZTkwLTgwYTYtZWQzYzk3MzRlMGVkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzE4VDE3MDI0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlkNWJiMGY0ZjNjZDBjZjZhZWQwNDQxOTM0MDZhODVhOWM2NWNlZTE0NjA5NTIxNTQ5NWY5ZjBjNGI3NzdiNjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Tc97DgK_nlZaUNTqFIQSiBO2xSjdGOsD_ViXeZQLMcU)
+![Banner](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 - 🔭 I’m currently working on [DevWonders](ldrawe.github.io/devwonders/)
 
 <h3 align="left">💻 Languages:</h3>
 <p align="left">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1200px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="css3" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1200px-HTML5_Badge.svg.png" alt="html5" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="css3" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" />
+    <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs" width="40"/>
 </p>
 <h3 align="left">📖 Libraries and Frameworks:</h3>
 <p>
@@ -45,17 +45,15 @@
 
 <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=ldrawe&title=Stars,Commits,Repositories,Experience&theme=darkhub" alt="ldrawe" />
+        <img src="https://github-profile-trophy.vercel.app/?username=ldrawe&title=Stars,Commits,Repositories,Experience&theme=gruvbox" alt="Trophies" />
     </a>
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ldrawe&show_icons=true&locale=en&theme=radical" alt="ldrawe" height="180em" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ldrawe&show_icons=true&locale=en&theme=gruvbox" alt="Stats" height="180em" />
 </p>
 
 <p>
 &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ldrawe&show_icons=true&locale=en&layout=compact&theme=radical" alt="ldrawe" height="180em" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ldrawe&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top languages" height="180em" />
 </p>
-
-

@@ -1,11 +1,23 @@
 <h1>Welcome to my GitHub</h1>
-<h3>
+
+<!-- ![Banner](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif) -->
+<h2>
     I'm a Full Stack developer with a love for crafting clean and efficient code. I'm dedicated to continuously learning and improving my skills in various technologies and frameworks
-</h3>
+</h2>
 
-![Banner](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
-- 🔭 I’m currently working on [DevWonders](ldrawe.github.io/devwonders/)
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ldrawe&show_icons=true&locale=en&theme=gruvbox" alt="Stats" height="180em" />
+</p>
+
+<p>
+&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ldrawe&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top languages" height="180em" />
+</p>
+<p>
+    <img src="https://github-profile-trophy.vercel.app/?username=ldrawe&title=Stars,Commits,Repositories,Experience&theme=gruvbox" alt="Trophies" />
+</p>
+
 
 <h3 align="left">💻 Languages:</h3>
 <p align="left">
@@ -41,19 +53,4 @@
 <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-</p>
-
-<p>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=ldrawe&title=Stars,Commits,Repositories,Experience&theme=gruvbox" alt="Trophies" />
-    </a>
-</p>
-
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ldrawe&show_icons=true&locale=en&theme=gruvbox" alt="Stats" height="180em" />
-</p>
-
-<p>
-&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ldrawe&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top languages" height="180em" />
 </p>

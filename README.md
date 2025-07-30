@@ -38,7 +38,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/>
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="50"/>
-    <img src="https://static-00.iconduck.com/assets.00/cypress-icon-2048x2048-swmlmjca.png" alt="cypress" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" alt="cypress" height="50"/>
     <img src="https://logotic.me/system/assets/uploads/vector-files/playwright-1669145740-logotic-brand.svg" alt="playwright" height="50"/>
 </p>
 <h3 align="left">⚒️ Tools:</h3>

@@ -30,7 +30,7 @@
 </p>
 <h3 align="left">📖 Libraries and Frameworks:</h3>
 <p>
-    <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express" width="50" height="50"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/expressjs.svg" alt="express" width="50" height="50"/>
     <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="50" height="50"/>
     <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="reactnative" width="50" height="50"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/888px-Vue.js_Logo_2.svg.png" alt="vuejs" width="50" height="50"/>

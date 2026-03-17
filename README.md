@@ -15,14 +15,14 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ldrawe&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top languages" height="180em" />
 </p>
 <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=ldrawe&title=Stars,Commits,Repositories,Experience&theme=gruvbox" alt="Trophies" />
+    <img src="https://gh-trophy.cdnsoft.net/?username=ldrawe&title=Stars,Commits,Repositories,Experience&theme=gruvbox" alt="Trophies" />
 </p>
 
 
 <h3 align="left">💻 Languages:</h3>
 <p align="left">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1200px-HTML5_Badge.svg.png" alt="HTML5" width="50" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="Css3" width="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/500px-Official_CSS_Logo.svg.png" alt="Css3" width="50" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="50" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="50" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" height="50" />
@@ -44,7 +44,7 @@
 </p>
 <h3 align="left">⚒️ Tools:</h3>
 <p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="NodeJS" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="NodeJS" height="50"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/960px-Icons8_flat_linux.svg.png" alt="Linux" width="50" height="50"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1280px-Bash_Logo_Colored.svg.png" alt="Bash" width="50" height="50"/>

@@ -21,40 +21,36 @@
 
 <h3 align="left">💻 Languages:</h3>
 <p align="left">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1200px-HTML5_Badge.svg.png" alt="HTML5" width="50" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/500px-Official_CSS_Logo.svg.png" alt="Css3" width="50" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="50" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="50" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" height="50" />
-    <img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icone-da-linguagem-de-programacao-java.png" alt="Java" height="60"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/500px-C_Programming_Language.svg.png?20201031132917" alt="C" height="50"/>
+    <img src="./assets/c.svg" alt="C" height="50"/>
+    <img src="./assets/c_sharp.svg" alt="C#" height="50"/>
+    <img src="./assets/typescript.svg" alt="Typescript" width="50" />
+    <img src="./assets/python.svg" alt="Python" height="50" />
+    <img src="./assets/java.svg" alt="Java" height="60"/>
 </p>
 <h3 align="left">📖 Libraries and Frameworks:</h3>
 <p>
-    <img src="https://cdn.worldvectorlogo.com/logos/expressjs.svg" alt="Express" width="50" height="50"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="50" height="50"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" width="50" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/3840px-Vue.js_Logo_2.svg.png" alt="VueJS" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="50" height="50"/>
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="50" height="50"/>
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="50" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" alt="Cypress" height="50"/>
-    <img src="https://logotic.me/system/assets/uploads/vector-files/playwright-1669145740-logotic-brand.svg" alt="Playwright" height="50"/>
+    <img src="./assets/expo.svg" alt="Expo" width="50" height="50"/>
+    <img src="./assets/react.svg" alt="React" width="50" height="50"/>
+    <img src="./assets/react-native.svg" alt="React Native" width="50" height="50"/>
+    <img src="./assets/nextjs.svg" alt="NextJS" width="50" height="50"/>
+    <img src="./assets/angular.svg" alt="Angular" width="50" height="50"/>
+    <img src="./assets/electron.svg" alt="Electron" height="50"/>
+    <img src="./assets/spring-boot.svg" alt="Spring Boot" height="50"/>
+    <img src="./assets/vue.svg" alt="VueJS" width="50" height="50"/>
+    <img src="./assets/tailwind.svg" alt="Tailwind" width="50" height="50"/>
+    <img src="./assets/jest.svg" alt="Jest" width="50" height="50"/>
+    <img src="./assets/cypress.svg" alt="Cypress" height="50"/>
+    <img src="./assets/playwright.svg" alt="Playwright" height="50"/>
+    <img src="./assets/pytorch.svg" alt="Pytorch" height="50"/>
 </p>
 <h3 align="left">⚒️ Tools:</h3>
 <p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="NodeJS" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/960px-Icons8_flat_linux.svg.png" alt="Linux" width="50" height="50"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1280px-Bash_Logo_Colored.svg.png" alt="Bash" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50"   height="50"/>
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Mongodb.png" alt="MongoDB" height="50"/>
-</p>
-<h3>Currently Learning:</h3>
-<p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="50" height="50"/>
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Pytorch" width="50" height="50"/>
+    <img src="./assets/linux.svg" alt="Linux" width="50" height="50"/>
+    <img src="./assets/nodejs.svg" alt="NodeJS" height="50"/>
+    <img src="./assets/bash.svg" alt="Bash" width="50" height="50"/>
+    <img src="./assets/postgresql.svg" alt="PostgreSQL" width="50" height="50"/>
+    <img src="./assets/firebase.svg" alt="Firebase" width="50"   height="50"/>
+    <img src="./assets/figma.svg" alt="Figma" width="50" height="50"/>
+    <img src="./assets/mongo.svg" alt="MongoDB" height="50"/>
+    <img src="./assets/docker.svg" alt="Docker" height="50"/>
 </p>

@@ -29,17 +29,17 @@
 </p>
 <h3 align="left">📖 Libraries and Frameworks:</h3>
 <p>
-    <img src="./assets/expo.svg" alt="Expo" width="50" height="50"/>
-    <img src="./assets/react.svg" alt="React" width="50" height="50"/>
-    <img src="./assets/react-native.svg" alt="React Native" width="50" height="50"/>
-    <img src="./assets/nextjs.svg" alt="NextJS" width="50" height="50"/>
-    <img src="./assets/angular.svg" alt="Angular" width="50" height="50"/>
+    <img src="./assets/expo.svg" alt="Expo" height="50"/>
+    <img src="./assets/react.svg" alt="React" height="50"/>
+    <img src="./assets/react-native.svg" alt="React Native" height="50"/>
+    <img src="./assets/nextjs.svg" alt="NextJS" height="50"/>
+    <img src="./assets/angular.svg" alt="Angular" height="50"/>
     <img src="./assets/electron.svg" alt="Electron" height="50"/>
     <img src="./assets/spring-boot.svg" alt="Spring Boot" height="50"/>
-    <img src="./assets/vue.svg" alt="VueJS" width="50" height="50"/>
-    <img src="./assets/tailwind.svg" alt="Tailwind" width="50" height="50"/>
-    <img src="./assets/jest.svg" alt="Jest" width="50" height="50"/>
-    <img src="./assets/cypress.svg" alt="Cypress" height="50"/>
+    <img src="./assets/vue.svg" alt="VueJS" height="50"/>
+    <img src="./assets/tailwind.svg" alt="Tailwind" height="50"/>
+    <img src="./assets/jest.svg" alt="Jest" height="50"/>
+    <img src="./assets/cypress.svg" alt="Cypress" width="50"/>
     <img src="./assets/playwright.svg" alt="Playwright" height="50"/>
     <img src="./assets/pytorch.svg" alt="Pytorch" height="50"/>
 </p>

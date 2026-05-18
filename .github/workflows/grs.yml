@@ -9,19 +9,30 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
-      - name: Generate stats card
+
+      - name: Generate Stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
           options: username=ldrawe&show_icons=true&locale=en&theme=gruvbox
-          path: profile/stats.svg
+          path: assets/profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Generate Top Langs card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=ldrawe&show_icons=true&locale=en&layout=compact&theme=gruvbox
+          path: assets/profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Download Trophies card
+        run: curl -s -L -o assets/profile/trophies.svg "https://gh-trophy.cdnsoft.net/?username=ldrawe&title=Stars,Commits,Repositories,Experience&theme=gruvbox"
           
       - name: Commit cards
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add profile/*.svg
-          git commit -m "Update README cards" || exit 0
+          git add assets/profile/*.svg
+          git commit -m "ci: update github stats and trophies locally" || exit 0
           git push

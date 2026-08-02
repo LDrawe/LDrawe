@@ -31,7 +31,7 @@ jobs:
           token: ${{ secrets.STATS_TOKEN }}
 
       - name: Download Trophies card
-        run: curl -s -L -o assets/profile/trophies.svg "https://gh-trophy.cdnsoft.net/?username=ldrawe&title=Stars,Commits,Repositories,Experience&theme=gruvbox"
+        run: curl -s -L -o assets/profile/trophies.svg "https://github-profile-trophy-unserori.vercel.app/?username=LDrawe&title=Stars,Commits,Repositories,Experience&theme=gruvbox"
 
       - name: Commit cards
         run: |

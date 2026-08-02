@@ -1,8 +1,12 @@
 name: Update README cards
+
 on:
   schedule:
     - cron: "0 3 1 * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -16,23 +20,23 @@ jobs:
           card: stats
           options: username=ldrawe&show_icons=true&locale=en&theme=gruvbox
           path: assets/profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          
+          token: ${{ secrets.STATS_TOKEN }}
+
       - name: Generate Top Langs card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
           options: username=ldrawe&show_icons=true&locale=en&layout=compact&theme=gruvbox
           path: assets/profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
 
       - name: Download Trophies card
         run: curl -s -L -o assets/profile/trophies.svg "https://gh-trophy.cdnsoft.net/?username=ldrawe&title=Stars,Commits,Repositories,Experience&theme=gruvbox"
-          
+
       - name: Commit cards
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add assets/profile/*.svg
           git commit -m "ci: update github stats and trophies locally" || exit 0
           git push

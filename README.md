@@ -1,7 +1,7 @@
 <h1>Welcome to my GitHub</h1>
 
 <h2>
-    I'm a Full Stack developer with a love for crafting clean and efficient code. I'm dedicated to continuously learning and improving my skills in various technologies and frameworks
+    Full Stack Developer with experience in web development and QA automation. Contributor to open-source projects and interested in Linux internals and low-level software.
 </h2>
 
 <p>

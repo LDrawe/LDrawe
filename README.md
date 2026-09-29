@@ -11,6 +11,7 @@
 <br/>
 
 ### 👨‍💻 About Me & Experience
+
 Software Engineer specializing in **Web Development**, **QA Automation**, and **System Architecture**. Experienced in delivering scalable solutions, maintaining high-quality testing environments, and exploring low-level **Linux** internals. Active open-source contributor and technical writer at **DevWonders**.
 
 - 🔭 Currently building robust web applications as an **Angular Developer**.
@@ -20,24 +21,27 @@ Software Engineer specializing in **Web Development**, **QA Automation**, and **
 - 🐧 Continuously researching **System Design**, **Architecture**, and low-level software.
 
 ### 🚀 Featured Projects & Open Source
+
 - ⚡ **Intel Turbo Boost Fix for Linux**: Utility to restore Intel Turbo Boost on systems where it is disabled by firmware through MSR manipulation.
 - 🌍 **Open Source Contributions**: Contributor to `auto-cpufreq` and `Viva New Vegas`.
 
 <br/>
 
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
+<h3>🛠️ Tech Stack & Tools</h3>
 
-<p align="center">
+<p>
   <br/>
   <b>Languages</b><br>
-  <img src="./assets/skills/c.svg" alt="C" height="45" style="margin: 5px;"/>
-  <img src="./assets/skills/c_sharp.svg" alt="C#" height="45" style="margin: 5px;"/>
+  <img src="./assets/skills/html.svg" alt="HTML" height="45" style="margin: 5px;"/>
+  <img src="./assets/skills/css.svg" alt="CSS" height="45" style="margin: 5px;"/>
+  <img src="./assets/skills/javascript.svg" alt="JavaScript" height="45" style="margin: 5px;"/>
   <img src="./assets/skills/typescript.svg" alt="Typescript" height="45" style="margin: 5px;" />
+  <img src="./assets/skills/c.svg" alt="C" height="45" style="margin: 5px;"/>
   <img src="./assets/skills/python.svg" alt="Python" height="45" style="margin: 5px;" />
   <img src="./assets/skills/java.svg" alt="Java" height="45" style="margin: 5px;"/>
 </p>
 
-<p align="center">
+<p>
   <br/>
   <b>Libraries & Frameworks</b><br>
   <img src="./assets/skills/angular.svg" alt="Angular" height="45" style="margin: 5px;"/>
@@ -53,7 +57,7 @@ Software Engineer specializing in **Web Development**, **QA Automation**, and **
   <img src="./assets/skills/playwright.svg" alt="Playwright" height="45" style="margin: 5px;"/>
 </p>
 
-<p align="center">
+<p>
   <br/>
   <b>Tools & Infrastructure</b><br>
   <img src="./assets/skills/linux.svg" alt="Linux" height="45" style="margin: 5px;"/>
@@ -68,9 +72,9 @@ Software Engineer specializing in **Web Development**, **QA Automation**, and **
 
 <br/>
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3>📊 GitHub Stats</h3>
 
-<div align="center">
+<div>
   <img src="./assets/profile/stats.svg" alt="Stats" height="160" />
   <img src="./assets/profile/top-langs.svg" alt="Top languages" height="160" />
   <img src="./assets/profile/trophies.svg" alt="Trophies" />
